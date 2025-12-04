@@ -76,7 +76,7 @@ vibe-commerce/
 
 🛠️ Installation & Setup
 1️⃣ Clone the repo
-git clone https://github.com/Ammani168/Vibe Commerce
+git clone https://github.com/Ammani168/Vibe-Commerce
 
 ⚙️ Backend Setup (Node + Express + SQLite)
 Install dependencies
